@@ -4,7 +4,6 @@ Hi 👋 My name is Aleksandr
 Frontend Developer
 ------------------
 
-* 🖥️  See my portfolio at [MyPortfolio](http://template.com)
 * ✉️  You can contact me at [inkowl94@gmail.com](mailto:inkowl94@gmail.com)
 * 🧠  I'm learning Angular Framework
 
